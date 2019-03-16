@@ -22,7 +22,7 @@ be taught in English.**
 
 Date  | Time | Place | Topic
 ----- | ---- | ----- | -----
-April  5, 2019 | 9:30-11:30 | [ED Building], room 30 | Linear Algebra
+April  5, 2019 | 9:30-11:30 | [ED Building], room 30 | [Linear Algebra](#linear-algebra)
 April 12, 2019 | 9:30-11:30 | [ED Building], room 30 | Differential Equations
 April 26, 2019 | 9:30-11:30 | [ED Building], room 30 | Signal Processing
 July   1, 2019 | 9:00-17:00 | [ED Building], room 30 | Introduction to Python
@@ -37,10 +37,12 @@ July   5, 2019 | 9:00-17:00 | [ED Building], room 30 | Project
 
 ### Starters
 
-**April 5, 2019 (9:30-11:30)** **Linear Algebra.** This course will introduce vectors and
-matrices, how to peform operations such as addition & multiplication on these objects and
-the correspondence with geometry and the resolution of a system of linear equations.
-Exercises will be given for the next lesson.
+#### Linear Algebra
+
+This course will introduce vectors and matrices, how to peform operations such as
+addition & multiplication on these objects and the correspondence with geometry
+and the resolution of a system of linear equations. Exercises will be given for
+the next lesson.
 
 **April 12, 2019 (9:30-11:30)** **Differential Equations.** We'll first correct exercises
 from the previous lesson then we'll cover first-order differential equations (that can
