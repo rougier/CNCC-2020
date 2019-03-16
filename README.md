@@ -23,8 +23,8 @@ be taught in English.**
 Date  | Time | Place | Topic
 ----- | ---- | ----- | -----
 April  5, 2019 | 9:30-11:30 | [ED Building], room 30 | [Linear Algebra](#linear-algebra)
-April 12, 2019 | 9:30-11:30 | [ED Building], room 30 | Differential Equations
-April 26, 2019 | 9:30-11:30 | [ED Building], room 30 | Signal Processing
+April 12, 2019 | 9:30-11:30 | [ED Building], room 30 | [Differential Equations](#differential-equations)
+April 26, 2019 | 9:30-11:30 | [ED Building], room 30 | [Signal Processing](#signal-processing)
 July   1, 2019 | 9:00-17:00 | [ED Building], room 30 | Introduction to Python
 July   2, 2019 | 9:00-17:00 | [ED Building], room 30 | Data processing
 July   4, 2019 | 9:00-17:00 | [ED Building], room 30 | Signal analysis
@@ -44,15 +44,19 @@ addition & multiplication on these objects and the correspondence with geometry
 and the resolution of a system of linear equations. Exercises will be given for
 the next lesson.
 
-**April 12, 2019 (9:30-11:30)** **Differential Equations.** We'll first correct exercises
-from the previous lesson then we'll cover first-order differential equations (that can
-for example describe the evolution of a membrane potential). We'll see how to analyze and
-solve such equation. Exercises will be given for the next lesson.
+#### Differential Equations
 
-**April 26, 2019 (9:30-11:30)** **Signal Processing.** We'll first correct exercises from
-the previous lesson then we'll explain first what is the Fourier transform that is
-ubiquituous in signal processing, what is spectral analysis and how to compute correlation
-in order to reveal similarity between signals. Instruction on how to install Python on
-your machine will be given.
+We'll first correct exercises from the previous lesson then we'll cover first-order
+differential equations (that can for example describe the evolution of a membrane
+potential). We'll see how to analyze and solve such equation. Exercises will be
+given for the next lesson.
+
+#### Signal Processing
+
+We'll first correct exercises from the previous lesson then we'll explain first what
+is the Fourier transform that is ubiquituous in signal processing, what is spectral
+analysis and how to compute correlation in order to reveal similarity between
+signals. Instruction on how to install Python on your machine will be given.
+
 
 ### Main course
