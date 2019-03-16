@@ -22,9 +22,10 @@ related concepts and techniques. **Courses will be taught in English.**
 
 **Warning**
 
-> Before this course, you need have the [Anaconda distribution](https://www.anaconda.com/distribution/) installed on your
-> system. Then, from the Anaconda navigator, you can start a Jupyter session.
-
+> Prior to this course, you need to install [Anaconda](https://www.anaconda.com/distribution/) that is the easiest way to
+> install the scientific Python stack on Linux, Windows, and Mac OS X. After
+> installation, make sure you can start a Jupyter notebook from the Anaconda
+> navigator because we'll use it extensively during this course.
 
 ## Important dates
 
