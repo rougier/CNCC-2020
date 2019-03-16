@@ -36,7 +36,6 @@ April 26, 2019 | 9:30-11:30 | [ED Building], room 30 | [Signal Processing](#sign
 
 Date  | Time | Place | Topic
 ----- | ---- | ----- | -----
-
 July   1, 2019 | 9:00-17:00 | [ED Building], room 30 | [Introduction](#introduction)
 July   2, 2019 | 9:00-17:00 | [ED Building], room 30 | [Data exploration](#data-exploration)
 July   4, 2019 | 9:00-17:00 | [ED Building], room 30 | [Signal processing](#signal-processing)
