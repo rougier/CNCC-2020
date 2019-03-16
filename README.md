@@ -1,7 +1,6 @@
 # Computational Neuroscience Crash Course
 **Arthur Leblois (CNRS) & Nicolas P. Rougier (Inria)**
 
-
 <a href="www.imn-bordeaux.org"><img src="IMN.jpg" align="right"/></a>
 
 Given the increasing complexity of neural data and the generalized use of
@@ -13,13 +12,18 @@ analysis/modelling. The course will span over two years, with a first part
 (2019) focusing on the maths and programming pre-requisites, and a second part
 next year (2020) on data analysis (and possibly modelling to follow). The
 course is open to everyone (student, post-docs, researchers...) but we'll give
-priority to **master and PhD students** given the limited number of
-places. Just send us an email to subscribe if you're interested.
+priority to **master and PhD students** given the limited number of places. Just
+send us an email to subscribe if you're interested.
 
 For all courses (maths and programming), we'll provide some theoretical
 background, provide small exercices for participant to work on their own and
 then solve the exercices together and make sure everybody has acquiered the
 related concepts and techniques. **Courses will be taught in English.**
+
+**Warning**
+
+> Before this course, you need have the [Anaconda distribution](https://www.anaconda.com/distribution/) installed on your
+> system. Then, from the Anaconda navigator, you can start a Jupyter session.
 
 
 ## Important dates
