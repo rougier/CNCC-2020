@@ -24,18 +24,26 @@ related concepts and techniques. **Courses will be taught in English.**
 
 ## Important dates
 
+### Starters
+
 Date  | Time | Place | Topic
 ----- | ---- | ----- | -----
 April  5, 2019 | 9:30-11:30 | [ED Building], room 30 | [Linear Algebra](#linear-algebra)
 April 12, 2019 | 9:30-11:30 | [ED Building], room 30 | [Differential Equations](#differential-equations)
 April 26, 2019 | 9:30-11:30 | [ED Building], room 30 | [Signal Processing](#signal-processing)
-July   1, 2019 | 9:00-17:00 | [ED Building], room 30 | [Introduction](#introduction)
-July   2, 2019 | 9:00-17:00 | [ED Building], room 30 | Data processing
-July   4, 2019 | 9:00-17:00 | [ED Building], room 30 | Signal analysis
-July   5, 2019 | 9:00-17:00 | [ED Building], room 30 | Project 
 
+### Main course
+
+Date  | Time | Place | Topic
+----- | ---- | ----- | -----
+
+July   1, 2019 | 9:00-17:00 | [ED Building], room 30 | [Introduction](#introduction)
+July   2, 2019 | 9:00-17:00 | [ED Building], room 30 | [Data exploration](#data-exploration)
+July   4, 2019 | 9:00-17:00 | [ED Building], room 30 | [Signal processing](#signal-processing)
+July   5, 2019 | 9:00-17:00 | [ED Building], room 30 | [Project](#project)
 
 [ED Building]: https://www.openstreetmap.org/#map=19/44.82505/-0.60734
+
 
 ## Program
 
