@@ -22,11 +22,11 @@ possibly modelling to follow).
 
 The course is free and open to everyone (student, post-docs, researchers...)
 but we'll give priority to master and PhD students given the limited number of
-places (24). Just send us an email (arthur.leblois@u-bordeaux.fr or
+places (n=24). Just send us an email (arthur.leblois@u-bordeaux.fr or
 nicolas.rougier@inria.fr) by end of March if you're interested.  For all
 courses (maths and programming), we'll provide some theoretical background,
 propose small exercices for participant to work on their own and then solve the
-exercices together and make sure everybody has acquiered the related concepts
+exercices together and make sure everybody has acquired the related concepts
 and techniques. Courses will be taught in English.
 
 #### Warning
@@ -43,9 +43,9 @@ and techniques. Courses will be taught in English.
 
 Date  | Time | Place | Topic | Tutor 
 ----- | ---- | ----- | ----- | -----
-April  5, 2019 | 9:30-11:30 | [ED Building], room 30 | [Linear Algebra](#linear-algebra) | Arthur Leblois
+April  5, 2019 | 9:30-11:30 | [ED Building], room 30 | [Linear Algebra](#linear-algebra)         | Arthur Leblois
 April 12, 2019 | 9:30-11:30 | [ED Building], room 30 | [Differential Equations](#differential-equations) | Arthur Leblois
-April 26, 2019 | 9:30-11:30 | [ED Building], room 30 | [Signal Processing](#signal-processing) | Arthur Leblois
+April 26, 2019 | 9:30-11:30 | [ED Building], room 30 | [Signal Processing](#signal-processing)      | Arthur Leblois
 
 <br/>
 
@@ -63,11 +63,13 @@ July   1, 2019 |  9:00-12:00 | [ED Building], room 30 | [Python programming]()  
 Date  | Time | Place | Topic | Tutor 
 ----- | ---- | ----- | ----- | -----
 July   2, 2019 |  9:00-12:00 | [ED Building], room 30 | [Data Exploration]()    | Nicolas Rougier & Arthur Leblois 
-               | 14:00-17:00 | [ED Building], room 30 | [Project (part 1)]()    | -
+               | 14:00-17:00 | [ED Building], room 30 | [Project (part 1)]()    | Nicolas Rougier & Arthur Leblois 
+July   3, 2019 |  9:00-12:00 | [ED Building], room 30 | Team work               | -
+               | 14:00-17:00 | [ED Building], room 30 | Team work               | -
 July   4, 2019 |  9:00-12:00 | [ED Building], room 30 | [Data Processing]()     | Nicolas Rougier & Arthur Leblois 
-               | 14:00-17:00 | [ED Building], room 30 | [Project (part 2)]()    | -
-July   5, 2019 |  9:00-12:00 | [ED Building], room 30 | [Data Analysis](#project) | Nicolas Rougier & Arthur Leblois
-               | 14:00-17:00 | [ED Building], room 30 | [Project (part 3)]()    | -
+               | 14:00-17:00 | [ED Building], room 30 | [Project (part 2)]()    | Nicolas Rougier & Arthur Leblois 
+July   5, 2019 |  9:00-12:00 | [ED Building], room 30 | [Data Analysis]()       | Nicolas Rougier & Arthur Leblois
+               | 14:00-17:00 | [ED Building], room 30 | [Project (part 3)]()    | Nicolas Rougier & Arthur Leblois 
 
 [ED Building]: https://www.openstreetmap.org/#map=19/44.82505/-0.60734
 
@@ -82,14 +84,26 @@ July   5, 2019 |  9:00-12:00 | [ED Building], room 30 | [Data Analysis](#project
 
 
 This course will introduce vectors and matrices, how to peform operations such
-as addition & multiplication on these objects and the correspondence with
-geometry and the resolution of a system of linear equations.
+as addition & multiplication on these objects. The correspondence with geometry
+and the resolution of a system of linear equations will be explained.
+
+**See also**:  
+* [Wikipedia | Linear Algebra](https://en.wikipedia.org/wiki/Linear_algebra)
+* [Mathematics for Computational Neuroscience](https://www.sheffield.ac.uk/polopoly_fs/1.13304!/file/maths.pdf)
+
+<br/>
 
 #### Differential Equations <img src="https://img.shields.io/badge/-2_Hours-orange.svg?style=flat-square" align="right"/>
 
 We'll cover first-order differential equations (that can for example describe
 the evolution of a membrane potential). We'll see how to analyze and solve such
 equation. 
+
+**See also**:  
+* [Wikipedia | Differential Equations](https://en.wikipedia.org/wiki/Differential_equation)
+* [Mathematics for Computational Neuroscience](https://www.sheffield.ac.uk/polopoly_fs/1.13304!/file/maths.pdf)
+
+<br/>
 
 #### Signal Processing <img src="https://img.shields.io/badge/-2_Hours-orange.svg?style=flat-square" align="right"/>
 
@@ -98,6 +112,8 @@ processing, what is spectral analysis and how to compute correlation in order
 to reveal similarity between signals. Instruction on how to install Python on
 your machine will be given.
 
+**See also:**  
+* [MATLAB for Neuroscientists](https://www.sciencedirect.com/book/9780123838360/matlab-for-neuroscientists) ($)
 
 
 <br/><br/><br/>
@@ -106,41 +122,43 @@ your machine will be given.
 
 #### [Python introduction]() <img src="https://img.shields.io/badge/-3_Hours-red.svg?style=flat-square" align="right"/>
 
-During this course, we'll first check that everyone has a functional Python
-installation with special attention to the Jupyter notebook.  We'll start
-programming in Python and review basic types, control flow & functions. We'll
-then give some maths reminder and in the meantime, we'll explain how to apply
-them using Python and a dedicated scientific library.
+We'll introduce the Python language, but only the bare minimum necessary for
+getting started with scientific computing, that is basic types, control flow &
+functions.
 
+**See also:**  
+* [Dive into Python](https://www.diveinto.org/python3)
+* [Python tutorial](https://docs.python.org/tutorial)
+
+<br/>
 
 #### [Numerical computing]() <img src="https://img.shields.io/badge/-3_Hours-red.svg?style=flat-square" align="right"/>
 
-This lesson gives an overview of [NumPy](https://www.numpy.org/), the core
-library for performant numerical computing, with support for large,
-multi-dimensional arrays and matrices, along with a large collection of
-high-level mathematical functions to operate on these arrays.
+This lesson will give an overview of [NumPy](https://www.numpy.org/), the core library for performant
+numerical computing, with support for large, multi-dimensional arrays and
+matrices, along with a large collection of high-level mathematical functions to
+operate on these arrays.
 
+**See also**:  
+* [From Python to NumPy](http://www.labri.fr/perso/nrougier/from-python-to-numpy)
+* [SciPy Lecture Notes](http://scipy-lectures.org/)
 
-#### [Data exploration]() <img src="https://img.shields.io/badge/-3_Hours-red.svg?style=flat-square" align="right"/>
-
-We'll introduce the project that students will have to complete by the end of
-the week. We'll present additional programming material that will be necessary
-to load and visualize the data as well as primitive data curation
-techniques. Students will work in pair and will start exploratory data analysis
-while tutors will be present the whole afternoon to give feedbacks and help if
-necessary. The next goal of the project will be introduced such that students
-can work on their own on the next day.
-
+<br/>
 
 #### [Data processing]() <img src="https://img.shields.io/badge/-3_Hours-red.svg?style=flat-square" align="right"/>
 
-We'll briefly introduce the spectral analysis tools available in NumPy, the
-scientific library of Python. Students will work in pair and will apply various
-spectral analysis tools to the data to determine if and how the spectral
-content of the data can be used to classify various data categories. During the
-afternoon, students continue working on the project, applying selected spectral
-analysis tools to the whole data set and extracting relevant indexes.
+**See also**:  
+* [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
 
+<br/>
+
+#### [Data visualization]() <img src="https://img.shields.io/badge/-3_Hours-red.svg?style=flat-square" align="right"/>
+
+**See also**:  
+* [Ten simple rules for better figures](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003833)
+* [Fundamentals of Data Visualization](https://serialmentor.com/dataviz)
+
+<br/>
 
 #### [Data analysis]() <img src="https://img.shields.io/badge/-3_Hours-red.svg?style=flat-square" align="right"/>
 
@@ -161,26 +179,20 @@ that will be exported to HTML.
 
 The dataset is available from the Zenodo directory.
 
-
-
 <br/><br/><br/>
-## Bibliography
-
-* [From Python to NumPy](), N.P. Rougier, Zenodo, 2017.
-* [100 Numpy exercises](), N.P. Rougier, GitHub, 2017.
-* [Matplotlib tutorial](), N.P. Rougier, Zenodo, 2015.
-* [Ten simple rules for better figures](),
-  N.P. Rougier, M. Droettboom & P. E. Bourne, Plos Computational Biology, 2014.
-* [How to transform code into scientific contribution](),
-  N.P. Rougier & F.Benureau, Frontiers in Neuroinformatics, 2018.
-<br/>
-
-
 
 ## Copyright notice
 
 This course has been written in March 2019 using  
-<img src="https://img.shields.io/badge/OSX-10.14.3-999999.svg?style=flat-square"/> <img src="https://img.shields.io/badge/Emacs-26.1-999999.svg?style=flat-square"/> <img src="https://img.shields.io/badge/Git-2.20.1-999999.svg?style=flat-square"/> <img src="https://img.shields.io/badge/Python-3.7.2-999999.svg?style=flat-square"/> <img src="https://img.shields.io/badge/Numpy-1.15.2-999999.svg?style=flat-square"/> <img src="https://img.shields.io/badge/Scipy-1.1.0-999999.svg?style=flat-square"/> <img src="https://img.shields.io/badge/Matplotlib-3.0.0-999999.svg?style=flat-square"/> <img src="https://img.shields.io/badge/Cython-0.28.2-999999.svg?style=flat-square"/> <img src="https://img.shields.io/badge/Numba-0.40.0-999999.svg?style=flat-square"/>
+<img src="https://img.shields.io/badge/OSX-10.14.3-999999.svg?style=flat-square"/>
+<img src="https://img.shields.io/badge/Emacs-26.1-999999.svg?style=flat-square"/>
+<img src="https://img.shields.io/badge/Git-2.20.1-999999.svg?style=flat-square"/>
+<img src="https://img.shields.io/badge/Python-3.7.2-999999.svg?style=flat-square"/>
+<img src="https://img.shields.io/badge/Numpy-1.15.2-999999.svg?style=flat-square"/>
+<img src="https://img.shields.io/badge/Scipy-1.1.0-999999.svg?style=flat-square"/>
+<img src="https://img.shields.io/badge/Matplotlib-3.0.0-999999.svg?style=flat-square"/>
+<img src="https://img.shields.io/badge/Cython-0.28.2-999999.svg?style=flat-square"/>
+<img src="https://img.shields.io/badge/Numba-0.40.0-999999.svg?style=flat-square"/>
 
 Copyright © 2019 Arthur Leblois & [Nicolas P. Rougier](http://www.labri.fr/perso/nrougier) – 
 Released under a [CC-BY 4.0 International](https://creativecommons.org/licenses/by/4.0/legalcode) license.  
