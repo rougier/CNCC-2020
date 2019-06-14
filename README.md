@@ -129,7 +129,7 @@ to reveal similarity between signals.
 <br/><br/><br/>
 ## Programming pre-requisites
 
-### [Installation](lessons/01-installation.md) <img src="https://img.shields.io/badge/-1_Hours-red.svg?style=flat-square" align="right"/>
+### [Installation](lessons/01-installation.md) <img src="https://img.shields.io/badge/-1_Hour-orange.svg?style=flat-square" align="right"/>
 
 <img src="data/indent.png" align="left"/>
 
