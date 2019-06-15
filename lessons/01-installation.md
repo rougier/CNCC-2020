@@ -149,7 +149,8 @@ conda 4.6.4
 > it might be worth to reboot your machine to see if this solves the problem.
 
 
-### Git, a distributed version control system 
+### Git, a distributed version control system (optional)
+
 
 We now need to install Git which is not related to Python and has not been
 installed during the previous step. Depending on your system, it might be
@@ -176,7 +177,7 @@ $ git --version
 
 
 
-### Code editor
+### Code editor (**optional**)
 
 The last thing we need to install is a decent code editor. You might have one
 already installed on your system and if you're faimilar with it, no need to

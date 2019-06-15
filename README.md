@@ -134,12 +134,13 @@ to reveal similarity between signals.
 <img src="data/indent.png" align="left"/>
 
 This lesson aims at providing the student with a clean development environment,
-including Python installation and essential packages (using the [Anaconda]
-installer), a decent text editor (e.g. [emacs], [vim], [atom], [notepad++]), a
-git command line and a shell. We'll also introduce the Python & [IPython]
-shells, the [Jupyter] notebook and explains how to run a python
-script from the command line or from inside the [IPython] shell.  
-<a href="lessons/01-installation.md"><img alt="→ Go to installation" align="right"/></a>
+including Python installation and essential packages (using the Anaconda
+installer), a decent text editor (e.g. emacs, vim, atom, notepad++), a git
+command line and a shell. We'll also introduce the Python & IPython shells, the
+Jupyter notebook and explains how to run a python script from the command line
+or from inside the IPython shell.  
+<a href="lessons/01-installation.md">
+<img alt="→ Go to installation" align="right"/></a>
 
 <br/>
 
