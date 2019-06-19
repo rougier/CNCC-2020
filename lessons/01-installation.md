@@ -12,12 +12,9 @@ script from the command line or from inside the [IPython] shell.
 
 **Contents**
 * [Objectives](#objectives)
-* [Installation](#installation) ............................................................................................................................................
-  <img src="https://img.shields.io/badge/-Duration:_30mn-black.svg?style=flat-square" align="right"/>
-* [Python, IPython & Jupyter](#python-ipython--jupyter-) ...................................................................................................................
-  <img src="https://img.shields.io/badge/-Duration:_15mn-black.svg?style=flat-square" align="right"/>
-* [Testing your installation](#testing-your-installation-) .......................................................................................................................
-  <img src="https://img.shields.io/badge/-Duration:_15mn-black.svg?style=flat-square" align="right"/>
+* [Installation](#installation)
+* [Python, IPython & Jupyter](#python-ipython--jupyter)
+* [Testing your installation](#testing-your-installation)
 
 
 <br/><br/><br/>
@@ -77,7 +74,7 @@ type `Control-D`.
 
 
 <br/><br/>
-## Installation <img src="https://img.shields.io/badge/-Duration:_30mn-black.svg?style=flat-square" align="right"/>
+## Installation
 
 As of today (2019), Python exists mainly in two flavors: Python 2.x
 (deprecated) and Python 3.x. On some systems, the 2.x version is already
@@ -202,7 +199,7 @@ to do it in your preferred editor.
 
 
 <br/><br/>
-## Python, IPython & Jupyter <img src="https://img.shields.io/badge/-Duration:_15mn-black.svg?style=flat-square" align="right"/>
+## Python, IPython & Jupyter
 
 You are now ready to start using Python and there are several ways to do that:
 
@@ -318,7 +315,7 @@ at jupyter.org or this nice [tutorial](https://www.datacamp.com/community/tutori
 
 
 <br/><br/>
-## Testing your installation <img src="https://img.shields.io/badge/-Duration:_15mn-black.svg?style=flat-square" align="right"/>
+## Testing your installation
 
 
 It's now time to check our installation to see if everything is ok.  At this
