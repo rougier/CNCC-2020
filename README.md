@@ -135,7 +135,7 @@ and explains how to run a python script from the command line.
 <br/>
 
 
-### [Introduction](02-introduction.md)
+### [Introduction](lessons/02-introduction.md)
 
 <img src="data/indent.png" align="left"/>
 
@@ -167,6 +167,10 @@ operate on these arrays.
 <br/><br/>
 
 ## Project
+
+The goal of the project is to automatically classify bird songs depending on
+whether the bird is an adult or a juvenile. You can start by listening the
+different files to see if you can hear any difference.
 
 <br/><br/>
 
