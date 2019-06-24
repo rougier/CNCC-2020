@@ -45,8 +45,8 @@ Date  | Time | Place | Topic | Tutor
 ----- | ---- | ----- | ----- | -----
 July   1, 2019 |  9:00-12:00 | [ED Building], room 30 | [Introduction] | Nicolas Rougier
                | 14:00-17:00 | [ED Building], room 30 | [Numerical Computing] | Nicolas Rougier
-July   2, 2019 |  9:00-12:00 | [ED Building], room 30 | Data Visualization | Nicolas Rougier 
-               |  14:00-17:00 | [ED Building], room 30 | Signal processing  | Nicolas Rougier
+July   2, 2019 |  9:00-12:00 | [ED Building], room 30 | [Data Visualization] | Nicolas Rougier 
+               |  14:00-17:00 | [ED Building], room 30 | [Scientific Computing]  | Nicolas Rougier
 
 
 ### Project
@@ -68,7 +68,9 @@ July   5, 2019 |  9:00-12:00 | [ED Building], room 30 | Restitution |  Nicolas R
 [Installation]: #installation
 [Introduction]: #introduction
 [Numerical Computing]: #numerical-computing
-
+[Data Visualization]: #data-visualization
+[Scientific Computing]: #scientific-computing
+ 
 
 <br/><br/><br/>
 
@@ -149,7 +151,7 @@ cover the strict minimum necessary for getting started with numerical computing.
 <br/>
 
 
-### Numerical computing
+### [Numerical computing](https://docs.scipy.org/doc/numpy/user/quickstart.html)
 
 <img src="data/indent.png" align="left"/>
 
@@ -159,18 +161,56 @@ matrices, along with a large collection of high-level mathematical functions to
 operate on these arrays.
 
 **Prerequisites**: [Introduction](#introduction)  
-**See also**: [Scipy Lecture Notes](https://scipy-lectures.org/) & [From Python to Numpy](https://www.labri.fr/perso/nrougier/from-python-to-numpy/)
+**See also**: [Scipy Lecture Notes](https://scipy-lectures.org/), [Numpy for Matlab users](https://docs.scipy.org/doc/numpy/user/numpy-for-matlab-users.html) &  [From Python to Numpy](https://www.labri.fr/perso/nrougier/from-python-to-numpy/)
 <br/>
 
+
+### [Data Visualization](https://matplotlib.org/3.1.0/tutorials/introductory/pyplot.html)
+
+<img src="data/indent.png" align="left"/>
+
+We'll explore the matplotlib library which is a Python 2D plotting library
+which produces publication quality figures in a variety of hardcopy formats and
+interactive environments across platforms. Matplotlib can be used in Python
+scripts, the Python and IPython shells, the Jupyter notebook, web application
+servers, and four graphical user interface toolkits.
+
+**Prerequisites**: [Numerical computing](#numerical-computing)  
+**See also**: [Matplotlib tutorial](https://github.com/rougier/matplotlib-tutorial), [Ten Simple Rules for Better Figures](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003833)
+
+
+### [Scientific computing](http://scipy-lectures.org/intro/scipy.html)
+
+<img src="data/indent.png" align="left"/>
+
+This lesson, from the scipy mlecture notes, will cover scipy which is a
+scientific-computing libraries, such as the GSL (GNU Scientific Library for C
+and C++), or Matlab’s toolboxes. Scipy is the core package for scientific
+routines in Python; it is meant to operate efficiently on numpy arrays, so that
+numpy and scipy work hand in hand.
+
+**Prerequisites**: [Numerical computing](#numerical-computing)  
+**See also**: [Elegant Scipy](https://github.com/elegant-scipy/elegant-scipy), [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
 
 <br/><br/>
 
 ## Project
 
-The goal of the project is to automatically classify bird songs depending on
-whether the bird is an adult or a juvenile. You can start by listening the
-different files to see if you can hear any difference.
+The goal of the project is to sort (automatically) audio files that correspond
+to the recording of adult or juvenile songbirds. If you listen to the audio
+files, you will hear that the sound is quite different between an adult (song)
+and a juvenile (babbling). This means we can probably process the audio files
+in order to decide if it corresponds to an adult or a juvenile and the goal is
+thus to write a function songsort("./some-path/") that will automatically sort
+all the files present in some-path and label them accordingly.  
+
+For the project, you'll need to team with someone else sucha as to work
+together at one compputer ([pair
+programming](https://en.wikipedia.org/wiki/Pair_programming)). When one is
+typing, the other is reading an commenting and for maximum efficiency, you'll
+have to switch roles frequently.
+
 
 <br/><br/>
 
