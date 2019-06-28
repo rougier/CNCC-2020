@@ -57,7 +57,7 @@ July   3, 2019 |  9:00-12:00 | [ED Building], room 30 | Presentation | Nicolas R
                | 14:00-17:00 | [ED Building], room 30 | Team work (part 1) | -
 July   4, 2019 |  9:00-12:00 | [ED Building], room 30 | Update | Nicolas Rougier & Arthur Leblois 
                | 14:00-17:00 | [ED Building], room 30 | Team work (part 2) | -
-July   5, 2019 |  9:00-12:00 | [ED Building], room 30 | Restitution |  Nicolas Rougier & Arthur Leblois 
+July   5, 2019 |  9:00-12:00 | [ED Building], room 30 | Update |  Nicolas Rougier & Arthur Leblois 
                | 14:00-16:00 | [ED Building], room 30 | Wrap-up | Nicolas Rougier & Arthur Leblois 
 
 
