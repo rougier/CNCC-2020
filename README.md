@@ -1,78 +1,75 @@
-# Computational Neuroscience Crash Course (2019)
+# Computational Neuroscience Crash Course (2020)
 
-Given the increasing complexity of neural data and the generalized use of
-theoretical models in neuroscience, more and more neuroscientists rely on
-computationnal tools for modelling or data analysis. We would like to offer the
-possibility to those who feel that their maths/informatics background is a bit
-short to update their maths and to get familiar with basic techniques for data
-analysis/modelling using the Python language. The Computational Neuroscience
-Crash Course (CNCC) will span over two years, with a first part (2019) focusing
-on the maths and programming pre-requisites, and a second part next year (2020)
+Given the increasing complexity of neural data and the generalized use
+of theoretical models in neuroscience, more and more neuroscientists
+rely on computationnal tools for modelling or data analysis. We would
+like to offer the possibility to those who feel that their maths /
+informatics background is a bit short to update their maths and to get
+familiar with basic techniques for data analysis/modelling using the
+Python language. The Computational Neuroscience Crash Course (CNCC)
+will span over two years, with a first part focusing on the maths and
+programming pre-requisites, and a second part next year
 on data analysis (and possibly modelling to follow).  
 
-The course is free and open to everyone (student, post-docs, researchers...)
-but we'll give priority to master and PhD students given the limited number of
-places (n=24). For all courses (maths and programming), we'll provide some
-theoretical background, propose small exercices for participant to work on
-their own and then solve the exercices together and make sure everybody has
-acquired the related concepts and techniques. Courses will be taught in
-English.  
+For all courses (maths and programming), we'll provide some
+theoretical background, propose small exercices for participant to
+work on their own and then solve the exercices together and make sure
+everybody has acquired the related concepts and techniques. Courses
+will be taught in English.  
+ 
+**Contact**
+- Arthur Leblois:  arthur.leblois@u-bordeaux.fr
+- Nicolas Rougier: nicolas.rougier@inria.fr
 
-<br/>
-
+<br/><br/>
 
 ## Important dates
 
-**Registration deadline**: 31/03/2019 (registrations are now **CLOSED**)  
+This year and ue to the pandemic, the whole course will be online and
+this means you'll have to read the different lessons before each
+session, following the proposed schedule below:
 
-If you were not able to register but want to be kept up to date, you can send
-us an email (arthur.leblois@u-bordeaux.fr or nicolas.rougier@inria.fr). We'll
-send email when new material is online and you can ask us for help if you
-encounter some diffculties.
+* **Monday 15 June 2020**
+  Make sure to have read (see below):
+  - Math: Linear Algebra 
+  - Prog: Installation + Introduction
+  
+* **Tuesday 16 June 2020**
+  Make sure to have read (see below):
+  - Math: Signal Processing + Fourier transform
+  - Prog: Numerical computing
 
+* For **Wednesday 17 June**
+  Make sure to have read (seel below):
+  - Math: Fourier transform
+  - Prog: Scientific computing
 
-### Mathematical lessons
-
-Date  | Time | Place | Topic | Tutor 
------ | ---- | ----- | ----- | -----
-April  5, 2019 | 9:30-11:30 | [ED Building], room 30 | [Linear Algebra] | Arthur Leblois
-April 12, 2019 | 9:30-11:30 | [ED Building], room 30 | [Differential Equations] | Arthur Leblois
-April 26, 2019 | 9:30-11:30 | [ED Building], room 30 | [Signal Processing] | Arthur Leblois
-
-### Programming lessons
-
-Date  | Time | Place | Topic | Tutor 
------ | ---- | ----- | ----- | -----
-July   1, 2019 |  9:00-12:00 | [ED Building], room 30 | [Introduction] | Nicolas Rougier
-               | 14:00-17:00 | [ED Building], room 30 | [Numerical Computing] | Nicolas Rougier
-July   2, 2019 |  9:00-12:00 | [ED Building], room 30 | [Data Visualization] | Nicolas Rougier 
-               |  14:00-17:00 | [ED Building], room 30 | [Scientific Computing]  | Nicolas Rougier
+Each morning (Monday, Tuesday and Wednesday), from 9am to 10am, we'll
+try to quickly highlight the main points on each lesson (15mn) and
+we'll take 45mn to asnwer any questions you may have.
 
 
-### Project
+## The (mini )project
 
-Date  | Time | Place | Topic | Tutor 
------ | ---- | ----- | ----- | -----
-July   3, 2019 |  9:00-12:00 | [ED Building], room 30 | Presentation | Nicolas Rougier & Arthur Leblois 
-               | 14:00-17:00 | [ED Building], room 30 | Team work (part 1) | -
-July   4, 2019 |  9:00-12:00 | [ED Building], room 30 | Update | Nicolas Rougier & Arthur Leblois 
-               | 14:00-17:00 | [ED Building], room 30 | Team work (part 2) | -
-July   5, 2019 |  9:00-12:00 | [ED Building], room 30 | Update |  Nicolas Rougier & Arthur Leblois 
-               | 14:00-16:00 | [ED Building], room 30 | Wrap-up | Nicolas Rougier & Arthur Leblois 
+The goal of the project is to sort (automatically) audio files that
+correspond to the recording of adult or juvenile songbirds. If you
+listen to the audio files, you will hear that the sound is quite
+different between an adult (song) and a juvenile (babbling). This
+means we can probably process the audio files in order to decide if it
+corresponds to an adult or a juvenile and the goal is thus to write a
+function `songsort(directory)` that will automatically sort
+all the files present in some-path and label them accordingly.  
+
+For the project, you'll need to team with someone else such as to work
+together at one computer ([pair
+programming](https://en.wikipedia.org/wiki/Pair_programming)). When
+one is typing, the other is reading an commenting and for maximum
+efficiency, you'll have to switch roles frequently. This can be done
+online by sharing the screen of someone.  
+
+For the project, we'll use Jupyter notebook and we'll start with the [project/introduction.ipynb](project/introduction.ipynb) notebook.
 
 
-[ED Building]: https://www.openstreetmap.org/#map=19/44.82505/-0.60734
-[Linear Algebra]: #linear-algebra
-[Differential Equations]: #differential-equations
-[Signal Processing]: #signal-processing
-[Installation]: #installation
-[Introduction]: #introduction
-[Numerical Computing]: #numerical-computing
-[Data Visualization]: #data-visualization
-[Scientific Computing]: #scientific-computing
- 
-
-<br/><br/><br/>
 
 ## Mathematical lessons
 
@@ -193,31 +190,11 @@ numpy and scipy work hand in hand.
 **See also**: [Elegant Scipy](https://github.com/elegant-scipy/elegant-scipy), [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
 
-<br/><br/>
-
-## Project
-
-The goal of the project is to sort (automatically) audio files that correspond
-to the recording of adult or juvenile songbirds. If you listen to the audio
-files, you will hear that the sound is quite different between an adult (song)
-and a juvenile (babbling). This means we can probably process the audio files
-in order to decide if it corresponds to an adult or a juvenile and the goal is
-thus to write a function songsort("./some-path/") that will automatically sort
-all the files present in some-path and label them accordingly.  
-
-For the project, you'll need to team with someone else sucha as to work
-together at one compputer ([pair
-programming](https://en.wikipedia.org/wiki/Pair_programming)). When one is
-typing, the other is reading an commenting and for maximum efficiency, you'll
-have to switch roles frequently.
-
-
-<br/><br/>
 
 ##  
 
-[Computational Neuroscience Crash Course (CNCC 2019)](https://github.com/rougier/NeuroComp-Bordeaux-2019)  
-Copyright © 2019 Arthur Leblois & [Nicolas P. Rougier](http://www.labri.fr/perso/nrougier) – [CC-BY 4.0 International](https://creativecommons.org/licenses/by/4.0/legalcode) license.
+[Computational Neuroscience Crash Course (CNCC 2020)](https://github.com/rougier/CNCC-2020)  
+Copyright © 2020 Arthur Leblois & [Nicolas P. Rougier](http://www.labri.fr/perso/nrougier) – [CC-BY 4.0 International](https://creativecommons.org/licenses/by/4.0/legalcode) license.
 
 [Anaconda]:   https://www.anaconda.com/
 [Emacs]:      http://www.emacs.org/
