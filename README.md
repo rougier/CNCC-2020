@@ -29,17 +29,17 @@ This year and ue to the pandemic, the whole course will be online and
 this means you'll have to read the different lessons before each
 session, following the proposed schedule below:
 
-* **Monday 15 June 2020**
+### Monday 15 June 2020
   Make sure to have read (see below):
   - Math: Linear Algebra 
   - Prog: Installation + Introduction
   
-* **Tuesday 16 June 2020**
+### Tuesday 16 June 2020
   Make sure to have read (see below):
   - Math: Signal Processing + Fourier transform
   - Prog: Numerical computing
 
-* For **Wednesday 17 June**
+### Wednesday 17 June
   Make sure to have read (seel below):
   - Math: Fourier transform
   - Prog: Scientific computing
