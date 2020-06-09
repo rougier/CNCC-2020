@@ -46,7 +46,8 @@ session, following the proposed schedule below:
 
 Each morning (Monday, Tuesday and Wednesday), from 9am to 10am, we'll
 try to quickly highlight the main points on each lesson (15mn) and
-we'll take 45mn to asnwer any questions you may have.
+we'll take 45mn to answer any questions you may have on the lessons or
+the project.
 
 
 ## The (mini )project
