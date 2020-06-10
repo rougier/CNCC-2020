@@ -83,13 +83,53 @@ as addition & multiplication on these objects. The correspondence with geometry
 and the resolution of a system of linear equations will be explained.
 
 **Prerequisites**: None  
-**See also**:
+**On-line courses**:
+
 [Wikipedia | Linear Algebra](https://en.wikipedia.org/wiki/Linear_algebra)
-& [Mathematics for Computational Neuroscience](https://www.sheffield.ac.uk/polopoly_fs/1.13304!/file/maths.pdf)
+
+[Mathematics for Computational Neuroscience](https://www.sheffield.ac.uk/polopoly_fs/1.13304!/file/maths.pdf): only Part 1, Chapter 2, 1-3 (ignore the least square approx in 4). 
+
+[Ch4 Linear Algebra (Owen&Corrado, Stanford U)](https://web.stanford.edu/class/nbio228-01/handouts/Ch4_Linear_Algebra.pdf)
+
+**Exercices**:
+ PDF link
 
 <br/>
 
-### [Differential Equations](02-differential-equations.pdf)
+### Signal Processing
+
+<img src="data/indent.png" align="left"/>
+
+We'll explain first what is the Fourier transform that is ubiquituous in signal
+processing, what is spectral analysis and how to compute correlation in order
+to reveal similarity between signals.
+
+**Prerequisites**: None  
+**On-line courses**:
+
+What is signal processing, and why ? https://www.youtube.com/watch?v=YmSvQe2FDKs
+
+Autocorrelation and crosscorrelation :
+https://en.wikipedia.org/wiki/Autocorrelation & 
+https://en.wikipedia.org/wiki/Cross-correlation (in both pages, focus on the case of ‘deterministic signals’ and ignore the case of random vectors)
+
+Video explanation and demo : https://www.youtube.com/watch?v=_r_fDlM0Dx0
+
+The case of neurons and spikes : https://www.med.upenn.edu/mulab/analysis.html
+
+Fourier transforms :
+
+https://en.wikipedia.org/wiki/Fourier_transform (up to 5.1 basic properties)
+
+I
+ntuitive definition : https://sites.northwestern.edu/elannesscohn/2019/07/30/developing-an-intuition-for-fourier-transforms/
+More complete definition : https://physiology.med.cornell.edu/people/banfelder/qbio/resources_2016/S.2_fourier.pdf
+
+A video course on the basics of Fourier transform : https://www.ibiology.org/talks/fourier-transform/
+
+To go beyond, the history and many applications of Fourier transforms : http://www.yalescientific.org/2010/12/fourier-transform-natures-way-of-analyzing-data/
+
+### [Differential Equations (optional)](02-differential-equations.pdf)
 
 <img src="data/indent.png" align="left"/>
 
@@ -103,18 +143,6 @@ equation.
 [Mathematics for Computational Neuroscience](https://www.sheffield.ac.uk/polopoly_fs/1.13304!/file/maths.pdf)
 
 <br/>
-
-### Signal Processing
-
-<img src="data/indent.png" align="left"/>
-
-We'll explain first what is the Fourier transform that is ubiquituous in signal
-processing, what is spectral analysis and how to compute correlation in order
-to reveal similarity between signals.
-
-**Prerequisites**: None  
-**See also:**
-[MATLAB for Neuroscientists](https://www.sciencedirect.com/book/9780123838360/matlab-for-neuroscientists) ($)
 
 
 <br/><br/>
