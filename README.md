@@ -50,7 +50,7 @@ we'll take 45mn to answer any questions you may have on the lessons or
 the project.
 
 
-## The (mini )project
+## The (mini) project
 
 The goal of the project is to sort (automatically) audio files that
 correspond to the recording of adult or juvenile songbirds. If you
@@ -68,7 +68,11 @@ one is typing, the other is reading an commenting and for maximum
 efficiency, you'll have to switch roles frequently. This can be done
 online by sharing the screen of someone.  
 
-For the project, we'll use Jupyter notebook and we'll start with the [project/introduction.ipynb](project/introduction.ipynb) notebook.
+For the project, we'll use Jupyter notebook and we'll start with the
+[project/introduction.ipynb](project/introduction.ipynb) notebook.
+
+Data is available here: https://filesender.renater.fr/?s=download&token=77a5fac3-ee68-40af-baab-4b34ab09d6b8
+
 
 
 
