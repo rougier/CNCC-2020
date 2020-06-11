@@ -177,7 +177,7 @@ to object-oriented programming* (Python website). However, we'll only
 cover the strict minimum necessary for getting started with numerical computing.
 
 **Prerequisites**: [Installation](#installation)  
-**See also**: [Official Python tutorial](https://docs.python.org/tutorial) & [Dive into Python](http://www.diveintopython.net/)  
+**See also**: [Official Python tutorial](https://docs.python.org/tutorial) & [Dive into Python](https://diveintopython3.problemsolving.io/)  
 <br/>
 
 
