@@ -96,7 +96,7 @@ and the resolution of a system of linear equations will be explained.
 [Ch4 Linear Algebra (Owen&Corrado, Stanford U)](https://web.stanford.edu/class/nbio228-01/handouts/Ch4_Linear_Algebra.pdf)
 
 **Exercices**:
- PDF link
+ PDF link: https://drive.google.com/file/d/1i2xM37M35iSrTbXoNOX5qQFARRrH2MTn/view?usp=sharing
 
 <br/>
 
